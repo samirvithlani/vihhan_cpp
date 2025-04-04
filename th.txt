@@ -1,0 +1,6 @@
+variable :memory store: address
+address pointers:
+
+datatype* pointer_name;
+
+nullptr: keyword c++11

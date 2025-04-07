@@ -4,3 +4,12 @@ address pointers:
 datatype* pointer_name;
 
 nullptr: keyword c++11
+
+Before swap function called....: 100 200
+Before swap function called....: 0x61fefc 0x61fef8
+Inside swap function before swap: 100 200
+Inside swap function before swap: 0x61fee0 0x61fee4
+Inside swap function: After swap 200 100
+Inside swap function after swap: 0x61fee0 0x61fee4
+After swap function called....: 100 200
+After swap function called....: 0x61fefc 0x61fef8

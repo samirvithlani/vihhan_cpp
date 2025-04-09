@@ -13,3 +13,9 @@ Inside swap function: After swap 200 100
 Inside swap function after swap: 0x61fee0 0x61fee4
 After swap function called....: 100 200
 After swap function called....: 0x61fefc 0x61fef8
+
+
+
+structure: is collection of diff kind of elements:
+
+Templates class template and function

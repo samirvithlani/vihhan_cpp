@@ -19,3 +19,22 @@ After swap function called....: 0x61fefc 0x61fef8
 structure: is collection of diff kind of elements:
 
 Templates class template and function
+
+
+STD library :: STL
+Class object:
+Structure   :
+
+Array: Homoge: 00x0 -> 00x4 --> 00x8
+1 2 3 4 5 6
+1 2 3 [0] 4 5 6
+1 2 4 5 6
+
+Linkedlist:
+chunk of memory
+head : pointer to next
+
+1 2 3 4 5 6
+
+item head
+0x10    -->  1 is value[ox18]  -->2 is value -->3 is value [ox45]--6 is value 0*0 NULL

@@ -13,6 +13,7 @@ class List{
     ~List();
 
     void push_back(int v);
+    void print();
     private:
     Item* head; //NULL 0*0
 
@@ -22,19 +23,6 @@ List::List(){
 
     head =NULL;
 }
-
-// void List::push_back(int v){
-
-//     //if my head is NULL then list is empty
-//     if(head == NULL){
-
-//         //allocation of new memory...
-//         Item newItem;
-//         head = &newItem;
-//     }
-
-// }
-
 
 void List::push_back(int v){
 
@@ -58,9 +46,8 @@ else{
 
 
 }
-
-
 }
+
 
 int main(){
 

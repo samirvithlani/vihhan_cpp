@@ -38,3 +38,16 @@ head : pointer to next
 
 item head
 0x10    -->  1 is value[ox18]  -->2 is value -->3 is value [ox45]--6 is value 0*0 NULL
+
+
+array   deque
+
+segmented array
+0  1  2  3  4
+10 20 30 40 55
+
+
+
+b1     b2    b3
+0  1    2    3  4
+10 20   30   40 55

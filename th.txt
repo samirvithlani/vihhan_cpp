@@ -51,3 +51,13 @@ segmented array
 b1     b2    b3
 0  1    2    3  4
 10 20   30   40 55
+
+file:
+
+open:
+read/write:
+close:
+
+writer: ofstream class
+read: ifstream class
+fstream class
